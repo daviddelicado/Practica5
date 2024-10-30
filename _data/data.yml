@@ -8,23 +8,23 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: David Gómez
+    tagline: Violador en potencia
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: example@email.com
-    phone: 012 345 6789
-    timezone: America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
+    email: tumamilabuena@gmail.com
+    phone: 633 33 33 33
+    #timezone: America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
     citizenship:
     website: https://example.com/ # Include the full website URL, including "http://" or "https://".
-    linkedin: alandoe
+    linkedin: el que tu quieras 
     xing: alandoe
-    github: jekyll
+    github: daviddelicado
     telegram: # add your nickname without '@' sign
-    gitlab:
+    gitlab: No quiero 
     bitbucket:
-    twitter: '@jekyllrb'
+    #twitter: '@jekyllrb'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -37,10 +37,10 @@ sidebar:
       title: Languages
       info:
         - idiom: English
-          level: Native
+          level: No native
 
-        - idiom: French
-          level: Professional
+        - idiom: Valenciano
+          level: Semi Profesional
 
         - idiom: Spanish
           level: Professional
@@ -48,13 +48,13 @@ sidebar:
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Cars
           link:
 
-        - item: Snowboarding
+        - item: Fernando alonso
           link:
 
-        - item: Cooking
+        - item: Nano
           link:
 
 career-profile:
