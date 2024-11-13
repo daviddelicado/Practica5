@@ -9,7 +9,7 @@ sidebar:
 
     # Profile information
     name: David Gómezz
-    tagline: Violador en potencia
+    tagline: Compromis xics
     avatar: shi.jpg
 
     # Sidebar links
@@ -36,7 +36,7 @@ sidebar:
     languages:
       title: Languages
       info:
-        - idiom: English
+        - idiom: Catala
           level: No native
 
         - idiom: Valenciano
@@ -60,12 +60,9 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Soy el mejor profesor que hay en la historia de este pais, ya que doy el codi binari 
+      bien bien de verdad, a demas me gusta que mis alumnos tengo comprimis con 
+      lo que hacen y que no la lien, soy el mas chulo y me encanta delicado si si nena.
 education:
     title: Education
     info:
