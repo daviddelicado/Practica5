@@ -197,24 +197,7 @@ projects:
       - title: Delta
         link: "#"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-    title: Contribuciones 
-    intro: >
-      Estas son las ayudas que he hecho o me considero que las he hecho bien.
-    contributions:
-      - title: AYudar
-        link: "#"
-        tagline: "He ayudado a los que lo han necesitas y siempre le enseño a la gente que quiere algun dia llegar a donde he llegado yo y asi son la mejor version de ellos mismos"
-
-      - title: Pilotaje
-        link: "#"
-        tagline: "Desde la esperiencia que tengo y todas las carreras que he realizado en toda mi carrera me siento que soy muy buen conductor y soy muy beno ya que he conducido toda clase de vehiculos 
-        "y prototipos de este mundo."
-
-      - title: Caridad
-        link: "#"
-        tagline: "Ayudo a los demas siempre, en el tema de caridad y ayudar a los necesitados si hayq ue hacer donaciones o alguna cosa benefica"
-
+        
 skills:
     title: Skills &amp; Proficiency
 
