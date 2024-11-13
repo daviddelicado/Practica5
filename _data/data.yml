@@ -8,21 +8,21 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Don Vicent Doñate Puertas de vivar 
-    tagline: Compromis xics
-    avatar: shi.jpeg
+    name: Fernando Alonso 
+    tagline: Piloto de F1
+    avatar: fernando-alonso-sonriente_98.png
 
     # Sidebar links
-    email: tumamilabuena@gmail.com
+    email: Falonso33@gmail.com
     phone: 633 33 33 33
     #timezone: America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
     citizenship:
-    website: https://example.com/ # Include the full website URL, including "http://" or "https://".
-    linkedin: el que tu quieras 
+    website: https://www.fernandoalonso.com/ # Include the full website URL, including "http://" or "https://".
+    linkedin: https://es.linkedin.com/in/fernando-alonso-19a72876 
     xing: alandoe
     github: daviddelicado
     telegram: # add your nickname without '@' sign
-    gitlab: No quiero 
+    gitlab: No 
     bitbucket:
     #twitter: '@jekyllrb'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
@@ -36,11 +36,11 @@ sidebar:
     languages:
       title: Languages
       info:
-        - idiom: Catala
-          level: No native
+        - idiom: Italiano
+          level: Bueno
 
-        - idiom: Valenciano
-          level: Semi Profesional
+        - idiom: Ingles
+          level: Very alto
 
         - idiom: Spanish
           level: Professional
@@ -51,21 +51,18 @@ sidebar:
         - item: Cars
           link:
 
-        - item: Fernando alonso
+        - item: F1
           link:
 
-        - item: Nano
+        - item: Estrategia
           link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Soy el mejor profesor que hay en la historia de este pais, ya que doy el codi binari 
-      bien bien de verdad, a demas me gusta que mis alumnos tengo comprimis con 
-      lo que hacen y que no la lien, soy el mas chulo y me encanta delicado si si nena.Tambien 
-      me gusta que los alummnos esten atentos y mirando la pizarra y espero que no me hagan 
-      la 13/14 del año pasado en un examen que dije que era todo practico y lo hice teorico 
-      que se jodan los cabrones.
+      Soy un piloto de carreras con 20 de experiencia en competiciones de alto nivel, destacándome por mi habilidad técnica, enfoque estratégico y capacidad de mantener la calma bajo presión. 
+      A lo largo de mi carrera, he competido en F1, Karting, Hyndicar, Lemans, logrando mundiales de F1, victorias en Karting y Hyndicar y ganando dos veces las 24 horas. 
+      Mi pasión por el automovilismo, junto con un enfoque constante en mejorar mi rendimiento y trabajar en equipo, me ha permitido desarrollar una sólida reputación tanto dentro como fuera de las pistas.
 education:
     title: Education
     info:
@@ -181,8 +178,8 @@ projects:
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
-        link: "#hook"
+      - title: Museo Fernando Alonso oviedo
+        link: "https://www.museoycircuitofernandoalonso.com/"
         tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
       - title: DevStudio
@@ -202,67 +199,44 @@ projects:
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 oss:
-    title: OSS Contributions
+    title: Contribuciones 
     intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Estas son las ayudas que he hecho o me considero que las he hecho bien.
     contributions:
-      - title: Tempo
+      - title: AYudar
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "He ayudado a los que lo han necesitas y siempre le enseño a la gente que quiere algun dia llegar a donde he llegado yo y asi son la mejor version de ellos mismos"
 
-      - title: Atom
+      - title: Pilotaje
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        tagline: "Desde la esperiencia que tengo y todas las carreras que he realizado en toda mi carrera me siento que soy muy buen conductor y soy muy beno ya que he conducido toda clase de vehiculos 
+        "y prototipos de este mundo."
 
-      - title: Delta
+      - title: Caridad
         link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+        tagline: "Ayudo a los demas siempre, en el tema de caridad y ayudar a los necesitados si hayq ue hacer donaciones o alguna cosa benefica"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Manego bajo la lluvia
+        level: 100%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Trabajo de compañeros
+        level: 90%
 
-      - name: Angular
-        level: 98%
+      - name: Ser el mejor
+        level: 100%
 
-      - name: HTML5 & CSS
+      - name: Me cae mal OCON
+        level: 0%
+
+      - name: Consistente y manipulador 
         level: 95%
 
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Feo
+        level: 20%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
